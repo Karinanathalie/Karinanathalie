@@ -1,9 +1,8 @@
 ###
-
-###
-<h1> Hi there ! </h1> <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
+<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> <h1> Hi there ! </h1> 
 
 <h2> I'm Karina </h2>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 🌱 &nbsp; I'm currently studying at The University of Hong Kong (HKU), majoring in Computer Science
