@@ -7,7 +7,7 @@
 
 🌱 &nbsp; I'm currently studying at The University of Hong Kong (HKU), majoring in Computer Science; \
 🔭 &nbsp; I'm looking for opportunities in software development, financial computing, big data analysis, and quantitative trading. \
-💬 &nbsp; I am open to any opportunities to widen my connections and explore new things. Feel free to contact me. \
+💬 &nbsp; I am open to any opportunities to widen my connections and explore new things. Feel free to contact me. 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,5 +36,5 @@
 <a href="https://www.linkedin.com/in/karina-nathalie/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:karinanathalie2@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinanathalie&theme=radical)
+### 📈 &nbsp; Github Stats:
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinanathalie&theme=radical)&nbsp;
