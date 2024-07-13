@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp; I'm currently studying at The University of Hong Kong (HKU), majoring in Computer Science; \
+🌱 &nbsp; I'm currently studying at The University of Hong Kong (HKU), majoring in Computer Science \
 🔭 &nbsp; I'm looking for opportunities in software development, financial computing, big data analysis, and quantitative trading. \
 💬 &nbsp; I am open to any opportunities to widen my connections and explore new things. Feel free to contact me. 
 
