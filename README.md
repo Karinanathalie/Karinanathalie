@@ -37,4 +37,4 @@
 <a href="mailto:karinanathalie2@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ### 📈 &nbsp; Github Stats:
-![GitHub Stats]("https://github-readme-stats.vercel.app/api/top-langs?username=karinanathalie&show_icons=true&locale=en&layout=compact")&nbsp;
+![GitHub Stats](<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karinanathalie&show_icons=true&locale=en&layout=compact" alt="karinanathalie" height=150 )&nbsp;
